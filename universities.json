@@ -1,0 +1,18 @@
+[
+  {"name": "Stanford GSB", "avg_gmat": 730, "avg_gpa": 3.8, "avg_exp": 5, "tuition": 75000, "avg_salary": 160000, "career_focus": ["Tech", "Finance"], "region": "USA"},
+  {"name": "INSEAD", "avg_gmat": 710, "avg_gpa": 3.6, "avg_exp": 6, "tuition": 65000, "avg_salary": 140000, "career_focus": ["Consulting", "Tech"], "region": "Europe"},
+  {"name": "IIM Ahmedabad", "avg_gmat": 700, "avg_gpa": 3.5, "avg_exp": 5, "tuition": 30000, "avg_salary": 80000, "career_focus": ["Finance", "Management"], "region": "India"},
+  {"name": "IE Business School", "avg_gmat": 680, "avg_gpa": 3.3, "avg_exp": 4, "tuition": 55000, "avg_salary": 110000, "career_focus": ["Tech", "Finance"], "region": "Europe"},
+  {"name": "Wharton", "avg_gmat": 730, "avg_gpa": 3.7, "avg_exp": 5, "tuition": 80000, "avg_salary": 175000, "career_focus": ["Finance", "Consulting"], "region": "USA"},
+  {"name": "NTU Singapore", "avg_gmat": 660, "avg_gpa": 3.2, "avg_exp": 3, "tuition": 35000, "avg_salary": 62000, "career_focus": ["Tech", "Healthcare"], "region": "Asia"},
+  {"name": "HEC Paris", "avg_gmat": 690, "avg_gpa": 3.5, "avg_exp": 5, "tuition": 70000, "avg_salary": 120000, "career_focus": ["Consulting", "Tech"], "region": "Europe"},
+  {"name": "London Business School", "avg_gmat": 700, "avg_gpa": 3.6, "avg_exp": 5, "tuition": 85000, "avg_salary": 125000, "career_focus": ["Finance", "Management"], "region": "Europe"},
+  {"name": "ISB Hyderabad", "avg_gmat": 690, "avg_gpa": 3.4, "avg_exp": 3, "tuition": 40000, "avg_salary": 105000, "career_focus": ["Management", "Consulting"], "region": "India"},
+  {"name": "MIT Sloan", "avg_gmat": 720, "avg_gpa": 3.8, "avg_exp": 4, "tuition": 77000, "avg_salary": 150000, "career_focus": ["Tech", "Management"], "region": "USA"},
+  {"name": "Chicago Booth", "avg_gmat": 730, "avg_gpa": 3.7, "avg_exp": 5, "tuition": 78000, "avg_salary": 155000, "career_focus": ["Finance", "Consulting"], "region": "USA"},
+  {"name": "HKUST Business School", "avg_gmat": 650, "avg_gpa": 3.1, "avg_exp": 3, "tuition": 42000, "avg_salary": 69000, "career_focus": ["Finance", "Tech"], "region": "Asia"},
+  {"name": "Rotterdam School of Management", "avg_gmat": 670, "avg_gpa": 3.2, "avg_exp": 4, "tuition": 37000, "avg_salary": 85500, "career_focus": ["Management", "Consulting"], "region": "Europe"},
+  {"name": "Toronto Rotman", "avg_gmat": 680, "avg_gpa": 3.3, "avg_exp": 5, "tuition": 47000, "avg_salary": 90000, "career_focus": ["Finance", "Management"], "region": "Canada"},
+  {"name": "Melbourne Business School", "avg_gmat": 670, "avg_gpa": 3.2, "avg_exp": 4, "tuition": 36000, "avg_salary": 80000, "career_focus": ["Management", "Tech"], "region": "Australia"},
+  {"name": "Saïd Business School Oxford", "avg_gmat": 690, "avg_gpa": 3.6, "avg_exp": 5, "tuition": 76000, "avg_salary": 120000, "career_focus": ["Consulting", "Tech"], "region": "Europe"}
+]
